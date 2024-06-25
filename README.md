@@ -2,7 +2,11 @@
 
 ## Description
 
-Cette application mobile est destinée aux étudiants pour automatiser le processus de vérification de présence en utilisant des codes QR. Elle permet aux étudiants de scanner des codes pour le check-in et le check-out des cours, offrant une vue d'ensemble sur leurs présences et facilitant ainsi la gestion des absences par l'administration.
+Cette application mobile est destinée aux étudiants pour automatiser le processus de vérification de présence en utilisant des codes QR. Elle permet aux étudiants de scanner des codes pour le check-in et le check-out des cours, offrant une vue d'ensemble sur leurs présences et facilitant ainsi la gestion des absences par l'administration. 
+
+Cette application est liée à une plateforme principalement conçue pour l’administration, qui a accès à toutes les informations concernant les étudiants et répertorie leurs absences. De ce fait, cette plateforme facilite le calcul des IPE (Interdiction au Passage d'Évaluation). 
+
+Le lien du repo GitHub de la plateforme est : [Smart Class Platform](https://github.com/maryamtamlalti2001/Smart-Class-).
 
 ## Fonctionnalités
 

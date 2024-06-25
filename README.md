@@ -1,5 +1,48 @@
-# Smart-Class
-Cette application est réservée pour les étudiants et a pour but d’aider l’administration en automatisant le processus 
-de vérification de l’absence. Elle contient une partie ou chaque étudiant est tenu de scanner un code QR pour le check in 
-et le check out, ainsi il peut avoir une vue d’ensemble sur ses présences. A chaque check-in ou check-out, la date exacte 
-est fournie sur une interface spécifique ressortissant ainsi la qualité de service de l'application.
+# Smart Class - Application Mobile
+
+## Description
+
+Cette application mobile est destinée aux étudiants pour automatiser le processus de vérification de présence en utilisant des codes QR. Elle permet aux étudiants de scanner des codes pour le check-in et le check-out des cours, offrant une vue d'ensemble sur leurs présences et facilitant ainsi la gestion des absences par l'administration.
+
+## Fonctionnalités
+
+### Authentification
+- Les étudiants doivent s'authentifier avec un nom d'utilisateur et un mot de passe fournis par l'administration.
+- Après la connexion, les étudiants doivent remplir leurs informations personnelles.
+
+### Vérification de présence par code QR
+- Les étudiants peuvent scanner un code QR au début et à la fin de chaque séance pour enregistrer leur présence.
+- L'heure exacte du check-in et du check-out s'affiche automatiquement après chaque scan.
+- Une fonctionnalité de localisation est incluse lors du scan.
+
+### Vue d’ensemble sur les présences
+- Les étudiants peuvent consulter les jours et heures de présence pour chaque mois.
+- Les détails de présence sont affichés pour chaque jour sélectionné.
+
+## Technologies Utilisées
+- **Framework:** Flutter
+
+## Installation
+1. Clonez le dépôt:
+   ```sh
+   git clone https://github.com/votre-repo/application-mobile.git
+
+2. Accédez au répertoire du projet:
+ ```sh
+cd application-mobile
+```
+3. Installez les dépendances:
+ ```sh
+flutter pub get
+```
+4. Exécutez l'application:
+ ```sh
+flutter run
+```
+
+## Contribuer
+- Forkez le projet.
+- Créez votre branche de fonctionnalité (git checkout -b feature/AmazingFeature).
+- Commitez vos modifications (git commit -m 'Add some AmazingFeature').
+- Poussez vers la branche (git push origin feature/AmazingFeature).
+- Ouvrez une Pull Request.

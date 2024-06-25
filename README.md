@@ -53,4 +53,4 @@ flutter run
 
 ## Documentation
 
-Pour plus de détails sur chaque étape, veuillez consulter la [documentation](https://github.com/fatimazahraelaaziz/Smart-Class/edit/master/README.md) associée ci-dessus.
+Pour plus de détails sur chaque étape, veuillez consulter la [documentation](https://github.com/fatimazahraelaaziz/Smart-Class/edit/master/Rapport_Smart_Class.pdf) associée ci-dessus.
